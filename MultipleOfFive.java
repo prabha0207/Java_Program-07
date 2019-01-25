@@ -10,8 +10,8 @@ import java.io.*;
     n = in.nextInt();
     for (s = 1; s <= 5; s++)
     {
-      mul=s*n;
-      System.out.println(mul);
+      c=s*n;
+      System.out.println(c);
     }
   }
 }
